@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdus786salam&label=Profile%20views&color=0e75b6&style=flat" alt="abdus786salam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdus786salam" alt="abdus786salam" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdus786salam&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **MERN stack**
 
