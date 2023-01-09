@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img alt="" height=50 width=50 src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" />, I'm Abdus Salam</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+<p>Dedicated full-time Full Stack Web Developer with 1000+ hours of coding experience in HTML, CSS, MERN and Chakra-UI. Hands-on experience in collaborative projects. Capable of writing production-ready code. Looking to start a career as a web developer with an organisation driven by technology.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdus786salam&label=Profile%20views&color=0e75b6&style=flat" alt="abdus786salam" /> </p>
 
